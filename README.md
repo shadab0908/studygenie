@@ -93,4 +93,4 @@ This project is under rapid development. PRs are welcome!
 MIT License
 
 ---
-Built with ❤️ by Shadab & ChatGPT (Co-founder Mode)
+Built by Shadab
